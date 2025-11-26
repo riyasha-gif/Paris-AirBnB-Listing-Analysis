@@ -1,4 +1,4 @@
-Paris AirBnB Market Analysis: Pricing, Capacity, and Regulatory Impact
+Paris AirBnB Market Analysis: Pricing, Capacity, and Regulatory Impact:
 
 Project Overview
 
@@ -77,11 +77,9 @@ Clone the Repository:
 
 git clone [https://github.com/riyasha-gif/paris-airbnb-listing-analysis.git](https://github.com/riyasha-gif/paris-airbnb-listing-analysis.git)
 
-
 Install Dependencies: If you are not using an Anaconda environment that already has these, install the required libraries:
 
-pip install pandas matplotlib
-
+pip install pandas matplotlib seaborn
 
 Launch Jupyter Notebook (via Anaconda):
 
@@ -100,7 +98,6 @@ Open your Anaconda Prompt (Windows) or Terminal (Mac/Linux).
 Change directory to the cloned repository folder:
 
 cd path/to/paris-airbnb-listing-analysis
-
 
 Launch the notebook server:
 
