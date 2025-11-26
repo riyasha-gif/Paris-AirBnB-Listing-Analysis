@@ -31,7 +31,7 @@ Finding: Across Paris, the average listing price shows a strong positive correla
 
 Implication: Larger listings, catering to bigger groups or families, represent the highest revenue-generating opportunities for hosts in the Parisian market. This suggests a strong demand for group travel accommodations.
 
-Visual: ![insight_2](https://github.com/riyasha-gif/Paris-AirBnB-Listing-Analysis/blob/main/Insight%202.jpg) 
+![insight_2](https://github.com/riyasha-gif/Paris-AirBnB-Listing-Analysis/blob/main/Insight%202.jpg) 
 (Horizontal bar chart: Average Listing Price by Accommodation Number)
 
 Insight 3: The 2015 Regulations and Their Divergent Impact on Hosts vs. Prices
