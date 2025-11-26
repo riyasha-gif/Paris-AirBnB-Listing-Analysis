@@ -22,7 +22,7 @@ Finding: There's a stark difference in average listing prices across Paris. The 
 
 Implication: Location remains the paramount factor for pricing strategy in the Paris AirBnB market, with central, tourist-heavy, and upscale arrondissements demanding a substantial premium.
 
-![Visual].(Insight 1.jpg) (Horizontal bar chart: Average Listing Price by Paris Neighbourhood)
+![Visual].(https://github.com/riyasha-gif/Paris-AirBnB-Listing-Analysis/blob/main/Insight%201.jpg) (Horizontal bar chart: Average Listing Price by Paris Neighbourhood)
 
 Insight 2: Price Escalates with Accommodation Capacity
 
