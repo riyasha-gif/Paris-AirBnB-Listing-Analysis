@@ -32,6 +32,7 @@ Finding: Across Paris, the average listing price shows a strong positive correla
 Implication: Larger listings, catering to bigger groups or families, represent the highest revenue-generating opportunities for hosts in the Parisian market. This suggests a strong demand for group travel accommodations.
 
 ![insight_2](https://github.com/riyasha-gif/Paris-AirBnB-Listing-Analysis/blob/main/Insight%202.jpg) 
+
 (Horizontal bar chart: Average Listing Price by Accommodation Number)
 
 Insight 3: The 2015 Regulations and Their Divergent Impact on Hosts vs. Prices
@@ -44,7 +45,9 @@ Average Price (Blue Line): The average AirBnB price in Paris shows volatility bu
 
 Implication: The 2015 regulations appear to have been effective in curtailing the growth of new listings (supply-side control). However, this reduction in new supply did not necessarily lead to lower prices for consumers, as demand likely remained strong, allowing existing listings to maintain their pricing.
 
-Visual: `Insight 5.png` (Dual-axis line chart: New AirBnB Hosts vs. Average Price in Paris Over Time)
+![Visual](https://github.com/riyasha-gif/Paris-AirBnB-Listing-Analysis/blob/main/Insight%205.png) 
+
+(Dual-axis line chart: New AirBnB Hosts vs. Average Price in Paris Over Time)
 
 🛠️ Technical Stack
 
