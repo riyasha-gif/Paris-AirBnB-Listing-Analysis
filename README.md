@@ -1,6 +1,6 @@
-Paris AirBnB Market Analysis: Pricing, Capacity, and Regulatory Impact:
+# Paris AirBnB Market Analysis: Pricing, Capacity, and Regulatory Impact
 
-Project Overview
+# Project Overview:
 
 This project presents an Exploratory Data Analysis (EDA) of AirBnB listings in Paris, France, focusing on understanding key market dynamics from 2008 to 2022. The analysis primarily investigates:
 
@@ -12,11 +12,11 @@ The temporal trends of new host entry and average listing prices, particularly a
 
 This analysis provides insights for potential hosts, travelers, and policymakers interested in the Paris short-term rental market.
 
-📊 Key Findings & Insights
+# 📊 Key Findings & Insights:
 
 The following are the core insights derived from the analysis, directly corresponding to the provided visualizations:
 
-Insight 1: Significant Price Variation Across Paris Neighborhoods
+# Insight 1: Significant Price Variation Across Paris Neighborhoods
 
 Finding: There's a stark difference in average listing prices across Paris. The Elysee neighborhood (8th Arrondissement) consistently commands the highest average price per night (over €200), closely followed by Louvre (1st Arrondissement) and Passy (16th Arrondissement). In contrast, areas like Menilmontant (20th Arrondissement) and Buttes-Chaumont (19th Arrondissement) offer significantly lower average prices (around €75-€80).
 
@@ -25,7 +25,7 @@ Implication: Location remains the paramount factor for pricing strategy in the P
 ![Visual](https://github.com/riyasha-gif/Paris-AirBnB-Listing-Analysis/blob/main/Insight%201.jpg) 
 (Horizontal bar chart: Average Listing Price by Paris Neighbourhood)
 
-Insight 2: Price Escalates with Accommodation Capacity
+# Insight 2: Price Escalates with Accommodation Capacity
 
 Finding: Across Paris, the average listing price shows a strong positive correlation with the number of people a property can accommodate. While 1-person accommodations are the cheapest (under €100), listings for 14, 13, 11, or 16 people reach the highest price points, nearing €1000 per night.
 
@@ -35,7 +35,7 @@ Implication: Larger listings, catering to bigger groups or families, represent t
 
 (Horizontal bar chart: Average Listing Price by Accommodation Number)
 
-Insight 3: The 2015 Regulations and Their Divergent Impact on Hosts vs. Prices
+# Insight 3: The 2015 Regulations and Their Divergent Impact on Hosts vs. Prices
 
 Finding:
 
@@ -49,7 +49,7 @@ Implication: The 2015 regulations appear to have been effective in curtailing th
 
 (Dual-axis line chart: New AirBnB Hosts vs. Average Price in Paris Over Time)
 
-🛠️ Technical Stack
+# 🛠️ Technical Stack:
 
 Language: Python
 
@@ -61,7 +61,7 @@ Matplotlib, Seaborn for data visualization.
 
 Jupyter Notebook for reproducible analysis and documentation.
 
-📂 Repository Structure
+# 📂 Repository Structure:
 
 paris_airbnb_analysis.ipynb: The main Jupyter Notebook containing all data cleaning, processing, EDA, and visualization code.
 
@@ -69,7 +69,7 @@ Insight 1.jpg, Insight 2.jpg, Insight 5.png: Exported image files corresponding 
 
 README.md: This document.
 
-🚀 How to Run the Analysis
+# 🚀 How to Run the Analysis:
 
 To reproduce this analysis locally, please follow these steps:
 
